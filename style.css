@@ -74,29 +74,29 @@ padding: 20px;
 .container .container2 .box .box-1{
 background: rgb(254, 238, 241);
 border-radius: 5px;
-padding:5px;
+padding: 5px;
 margin: 10px;
 width: 100%;
 }
 .container .container2 .box .box-1 p{
     color:rgb(255, 184, 196);
-    word-spacing: 3em;
+    word-spacing: 4em;
 }
 .container .container2 .box .box-2{
     background: rgb(253, 240, 221);
     border-radius: 5px;
-    padding:5px;
+    padding: 5px;
     margin: 10px;
     width: 100%;
 }
 .container .container2 .box .box-2 p {
     color:rgb(255, 210, 125);
-    word-spacing: 3em;
+    word-spacing: 4em;
 }
 .container .container2 .box .box-3{
     background: rgb(235, 244, 235);
     border-radius: 5px;
-    padding:5px;
+    padding: 5px;
     margin: 10px;
     width: 100%;
 }
@@ -107,7 +107,7 @@ width: 100%;
 .container .container2 .box .box-4 {
 background: rgb(254, 242, 254);
 border-radius: 5px;
-padding:5px;
+padding: 5px;
 margin: 10px;
 width: 100%;
 }
